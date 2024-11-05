@@ -1,0 +1,30 @@
+---
+title: "Shiny Application and Reproducible Pitch"
+author: "S"
+date: "12/24/2021"
+output: ioslides_presentation
+---
+
+## Intro
+
+This peer assessed assignment has two parts. First, you will create a Shiny application and deploy it on Rstudio's servers. Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application.
+
+## Big Five
+
+Also known as Big Tech, it is the name given to the largest and the most dominant companies in the information technology industry of the US, including Apple, Microsoft, Amazon,  Alphabet (Google), and Facebook. 
+
+This project shows you how their stock prices changed from 1986 to 2020.
+
+## Links
+
+Website:
+
+https://22i75u-s-xu.shinyapps.io/shinyproject/
+
+Github:
+
+https://github.com/lovelyxs/Shiny-Application-and-Reproducible-Pitch.git
+
+## Thanks for your time
+
+Wish you all the best!
